@@ -1,5 +1,5 @@
 {% set name = "setupinit" %}
-{% set version = "0.0.2" %}
+{% set version = "0.0.3" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/setupinit-{{ version }}.tar.gz
-  sha256: e02a402651e982fd67812aad2cb140c5647be2e2cda51864be9798529a1e59dc
+  sha256: 662691fdd6dc206f13568eab30a0d0a5581f626c3938cc25a2d0195ce64f71b7
 
 build:
   entry_points:
