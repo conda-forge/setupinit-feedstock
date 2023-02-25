@@ -1,11 +1,11 @@
-About setupinit
-===============
+About setupinit-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/setupinit-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/pyrustic/setupinit
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/setupinit-feedstock/blob/main/LICENSE.txt)
 
 Summary: Properly initialize a Python project
 
